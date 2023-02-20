@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because in sorted50000.txt file, it takes lesser time than sort3. It identifies that lower bound is lesser for this one.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because in random50000.txt file, it takes lesser time than all. It identifies that upper bound is lesser for this one.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because in sorted50000.txt file, it takes more time. It identifies that lower bound is larger for this one.
